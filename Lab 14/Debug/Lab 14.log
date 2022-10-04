@@ -1,0 +1,6 @@
+﻿  lab14.cpp
+C:\Wayne State\Fall 2021\Computer Science (CSC 2110)\Labs\Lab 14\lab14.cpp(12,10): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Wayne State\Fall 2021\Computer Science (CSC 2110)\Labs\Lab 14\lab14.cpp(13,11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Wayne State\Fall 2021\Computer Science (CSC 2110)\Labs\Lab 14\lab14.cpp(25,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Wayne State\Fall 2021\Computer Science (CSC 2110)\Labs\Lab 14\lab14.cpp(26,54): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Lab 14.vcxproj -> C:\Wayne State\Fall 2021\Computer Science (CSC 2110)\Labs\Lab 14\Debug\Lab 14.exe
