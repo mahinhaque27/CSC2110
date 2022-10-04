@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Wayne State\Fall 2021\Computer Science (CSC 2110)\Labs\Lab 22\main.cpp(122): warning C4715: 'LinkedListType::getFirst': not all control paths return a value
+C:\Wayne State\Fall 2021\Computer Science (CSC 2110)\Labs\Lab 22\main.cpp(137): warning C4715: 'LinkedListType::getLast': not all control paths return a value
+  Lab 22.vcxproj -> C:\Wayne State\Fall 2021\Computer Science (CSC 2110)\Labs\Lab 22\Debug\Lab 22.exe
