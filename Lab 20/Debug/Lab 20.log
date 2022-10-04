@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Wayne State\Fall 2021\Computer Science (CSC 2110)\Labs\Lab 20\main.cpp(13,44): warning C4018: '<': signed/unsigned mismatch
+C:\Wayne State\Fall 2021\Computer Science (CSC 2110)\Labs\Lab 20\main.cpp(90,20): warning C4018: '<': signed/unsigned mismatch
+  Lab 20.vcxproj -> C:\Wayne State\Fall 2021\Computer Science (CSC 2110)\Labs\Lab 20\Debug\Lab 20.exe
