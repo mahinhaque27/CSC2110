@@ -1,0 +1,2 @@
+C:\Wayne State\Fall 2021\Computer Science (CSC 2110)\Labs\Lab 04\Debug\Lab 04.exe
+C:\Wayne State\Fall 2021\Computer Science (CSC 2110)\Labs\Lab 04\Debug\Lab 04.pdb

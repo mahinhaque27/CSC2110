@@ -1,0 +1,5 @@
+﻿main.obj : error LNK2019: unresolved external symbol "public: __thiscall Box::Box(double,double,double)" (??0Box@@QAE@NNN@Z) referenced in function _main
+main.obj : error LNK2019: unresolved external symbol "public: double __thiscall Box::volume(void)" (?volume@Box@@QAENXZ) referenced in function _main
+main.obj : error LNK2019: unresolved external symbol "public: void __thiscall Box::print(void)" (?print@Box@@QAEXXZ) referenced in function _main
+main.obj : error LNK2019: unresolved external symbol "public: double __thiscall Box::area(void)" (?area@Box@@QAENXZ) referenced in function _main
+C:\Wayne State\Fall 2021\Computer Science (CSC 2110)\Labs\Lab 05\Debug\Lab 05.exe : fatal error LNK1120: 4 unresolved externals
